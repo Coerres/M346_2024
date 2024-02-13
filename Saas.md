@@ -1,0 +1,2 @@
+# Definition: Saas
+###### "SaaS" steht für "Software as a Service" und bezeichnet ein Cloud-Computing-Modell, bei dem Softwareanwendungen über das Internet bereitgestellt und von einem Anbieter gehostet werden. Benutzer können auf diese Anwendungen über das Web zugreifen, ohne dass sie die Software selbst installieren oder verwalten müssen. Ein bekanntes Beispiel für SaaS ist Google Workspace (früher G Suite), das E-Mail, Dokumentenbearbeitung und andere Büroanwendungen als Service anbietet.
