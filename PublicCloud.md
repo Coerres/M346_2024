@@ -1,0 +1,2 @@
+# Definition: Public-Cloud
+###### Die "Public Cloud" ist eine von Cloud-Dienstanbietern bereitgestellte Computing-Infrastruktur, die über das Internet zugänglich ist und von mehreren Kunden gemeinsam genutzt wird. Beispiele hierfür sind Amazon Web Services (AWS), Microsoft Azure und Google Cloud Platform.
