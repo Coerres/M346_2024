@@ -1,0 +1,2 @@
+# Definition: PaaS
+##### "PaaS" steht für "Platform as a Service" und bietet eine Cloud-Plattform für die Entwicklung, Bereitstellung und Verwaltung von Anwendungen, ohne sich um die zugrunde liegende Infrastruktur kümmern zu müssen.

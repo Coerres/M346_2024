@@ -1,2 +1,2 @@
-# Definitionen: IaaS
+# Definition: IaaS
 #####"IaaS" steht für "Infrastructure as a Service" und bezeichnet ein Cloud-Computing-Modell, bei dem grundlegende IT-Infrastrukturkomponenten wie Rechenleistung, Speicher und Netzwerke als Service über das Internet bereitgestellt werden.
