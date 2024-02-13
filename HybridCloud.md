@@ -1,0 +1,2 @@
+# Definition: Hyprid-Cloud
+###### Eine "Hybrid-Cloud" ist eine Kombination aus Public und Private Clouds, die miteinander verbunden sind. Unternehmen nutzen sie für Flexibilität und Skalierbarkeit, indem sie sensible Daten in der privaten Cloud behalten und gleichzeitig die Vorteile der öffentlichen Cloud nutzen.
