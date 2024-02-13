@@ -1,0 +1,2 @@
+# Definiton: Private-Cloud
+###### Die "Private Cloud" ist eine exklusive Cloud-Computing-Umgebung, die entweder intern von einer Organisation betrieben oder von einem externen Anbieter ausschließlich für diese Organisation bereitgestellt wird. Im Gegensatz zur öffentlichen Cloud wird die Private Cloud nicht von anderen Unternehmen geteilt.
