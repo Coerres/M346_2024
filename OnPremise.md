@@ -1,0 +1,2 @@
+# Definition: OnPremise
+###### "On-Premise" bezieht sich darauf, dass Software oder Infrastruktur lokal in den Räumlichkeiten eines Unternehmens installiert und betrieben wird. Im Gegensatz zu cloudbasierten Diensten haben Unternehmen direkte Kontrolle über ihre Systeme, müssen jedoch die entsprechende Hardware und IT-Infrastruktur bereitstellen und warten.
